@@ -1,5 +1,5 @@
 {
-  "_comment": "mongodb+srv://brad123:brad123@devconnector-gtizj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "_cloudserver": "mongodb+srv://brad123:brad123@devconnector-gtizj.mongodb.net/<dbname>?retryWrites=true&w=majority",
   "mongoURI": "mongodb://127.0.0.1:27017/test",
   "jwtSecret": "mysecrettoken"
 }
